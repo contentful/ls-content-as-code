@@ -11,4 +11,6 @@ module.exports = function (migration) {
             }
         ]);
     author.createField('bio').type('Text').name('Bio');
+
+    migration.editContentType('author').displayField('name');
 }
