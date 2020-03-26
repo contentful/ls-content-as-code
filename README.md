@@ -1,5 +1,5 @@
 # Contentful Content Migration Examples
-These scripts are used in Contentful's [Managing Content at Scale developer course](https://public.learningcenter.contentful.com/learner/courseinfo/id:172).
+These scripts are used in Contentful's [Managing Content at Scale](https://public.learningcenter.contentful.com/learner/courseinfo/id:172)developer course.
 
 To go through the example migration scripts first spin up a new PoC space and import the JSON export file using the Contentful CLI:
 
